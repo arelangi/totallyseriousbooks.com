@@ -1,0 +1,17 @@
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+    <form action="https://totallyseriousbooks.us17.list-manage.com/subscribe/post?u=7bf6c03922a73a8cff772822d&amp;id=07458be8bc" method="post" id="mc-embedded-subscribe-forms" name="mc-embedded-subscribe-form" class="validate col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3 myform" target="_blank" novalidate>
+        <div id="mc-field-group">
+            <input id="mce-EMAIL" name="mce-EMAIL" placeholder="Enter your email" class="form-control input-lg requiredField" type="email" data-error-empty="Please enter your email" data-error-invalid="Invalid email address">
+            <span class="input-group-btn">
+                <button id="mc-embedded-subscribe" name="submit" type="submit" class="btn" data-error-message="Error!" data-sending-message="Sending..." data-ok-message="Message Sent">Subscribe!</button>
+            </span>
+        </div>
+
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->
