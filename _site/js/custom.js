@@ -1,4 +1,4 @@
-$(document).ready(function() { var config = { countdown: { year: 2018, month: 4, day: 1, hour: 8, minute: 0, second: 0 } }; var date = new Date(config.countdown.year, config.countdown.month - 1, config.countdown.day, config.countdown.hour, config.countdown.minute, config.countdown.second),
+$(document).ready(function() { var config = { countdown: { year: 2018, month: 5, day: 18, hour: 8, minute: 0, second: 0 } }; var date = new Date(config.countdown.year, config.countdown.month - 1, config.countdown.day, config.countdown.hour, config.countdown.minute, config.countdown.second),
         $countdownNumbers = { days: $('#countdown-days'), hours: $('#countdown-hours'), minutes: $('#countdown-minutes'), seconds: $('#countdown-seconds') };
     $('#countdown').countdown(date).on('update.countdown', function(event) { $countdownNumbers.days.text(event.offset.totalDays);
         $countdownNumbers.hours.text(('0' + event.offset.hours).slice(-2));
